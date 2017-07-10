@@ -98,5 +98,7 @@ public class MainActivity extends AppCompatActivity implements ActivityCompat.On
         locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, locationListener);
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
     }
+
+
 }
 
