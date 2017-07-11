@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GeolocalisationQuest</string>
+    <string name="api_key">0889ec61413e84e9fab64f44c38791d0</string>
 </resources>
